@@ -1,0 +1,23 @@
+{	
+    "Trump": {	
+        "likes": 370451,	
+        "retweets": 126000,	
+        "Web": 24885,	
+        "IPhone": 17710,	
+        "Android": 15395	
+    },	
+    "Biden": {	
+        "likes": 801346,	
+        "retweets": 267913,	
+        "Web": 24735,	
+        "IPhone": 21786,	
+        "Android": 14031	
+    },	
+    "Common": {	
+        "likes": 204750,	
+        "retweets": 78843,	
+        "Web": 17541,	
+        "IPhone": 9479,	
+        "Android": 7916	
+    }	
+}	
