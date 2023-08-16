@@ -1,7 +1,9 @@
 # Map-Reduce Exercises
-This repository contains solutions for three Hadoop map-reduce exercises. They were the third assignment in my undergraduate cloud computing course.
+This repository contains solutions for three Hadoop map-reduce exercises, which were completed as the third assignment of my undergraduate Cloud Computing course.
 
 You can find the full project description in [instructions.pdf](instructions.pdf) and [report.pdf](report.pdf) (in Persian).
+In the following section, you will find a summary of the assignment's instructions.
+
 
 ## Dataset
 
@@ -17,7 +19,7 @@ used for this assignment. The subset has 1.72 million tweet records related to t
 
 2. **Tweets Percentage and Counts in Specific States and Time**
 
-   Develop a map-reduce program that calculates the percentage of tweets posted between 9 AM to 5 PM in specific states related to the first candidate, the second candidate, and both of them. Additionally, count the total number of tweets posted in those states during the specified time period. The states include New York, Texas, California, and Florida. The search should be case insensitive. 
+   Develop a map-reduce program that calculates the percentage of tweets posted between 9 AM to 5 PM in specific states related to the first candidate, the second candidate, and both of them. Additionally, count the total number of tweets posted in those states during the specified time period. The states include New York, Texas, California, and Florida. The search should be case-insensitive. 
    - You can find the results in [output/part-00000_2](output/part-00000_2).
 
 3. **Filtering Tweets by Geographic Coordinates**
